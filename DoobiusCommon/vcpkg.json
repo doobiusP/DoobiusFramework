@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "boost-bimap",
+    "boost-json",
+    "boost-log",
+    "boost-assert",
+    "boost-stacktrace",
+    "boost-multi-index",
+    "boost-format",
+    "boost-container"
+  ]
+}

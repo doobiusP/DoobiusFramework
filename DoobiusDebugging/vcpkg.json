@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "boost-json",
+    "boost-format",
+    "boost-assert",
+    "boost-log",
+    "boost-stacktrace"
+  ]
+}

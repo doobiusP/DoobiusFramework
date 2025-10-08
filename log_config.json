@@ -1,0 +1,22 @@
+{
+  "min_severity": {
+    "dbg": "trace",
+    "rel-dev": "debug",
+    "rel": "info"
+  },
+  "console_min_severity": {
+    "dbg": "debug",
+    "rel-dev": "info",
+    "rel": "warning"
+  },
+  "log_file_prefix": {
+    "dbg": "dbg",
+    "rel-dev": "reldev",
+    "rel": "rel"
+  },
+  "rotation_size": {
+    "dbg": 10,
+    "rel-dev": 7,
+    "rel": 3
+  }
+}
